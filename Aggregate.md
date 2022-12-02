@@ -2,7 +2,10 @@
 
 <https://arxiv.org/abs/2207.04036>
 
-- With proper parameterization; (commuting) Gradient Flow becomes equivalent with Mirror Flow.
+- With proper parameterization; (commuting and regular) Gradient Flow becomes equivalent with Mirror Flow.
+- Also conditions to being good; (meets above) parameterization. 
+-
+- Knowledge: about "Manifold", 
 
 
 ### [Text] Kernel and Submanifold Learning
