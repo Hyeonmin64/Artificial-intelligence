@@ -8,6 +8,18 @@
 - Knowledge: about "Manifold", 
 
 
+### Probabilistic Riemannian submanifold learning with wrapped Gaussian process latent variable models
+
+<https://arxiv.org/abs/1805.09122>
+
+-
+-
+
+
+
+
+
+
 ### [Text] Kernel and Submanifold Learning
 
 <https://link.springer.com/chapter/10.1007/978-3-642-38652-7_7>
