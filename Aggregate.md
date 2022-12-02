@@ -2,4 +2,4 @@
 
 <https://arxiv.org/abs/2207.04036>
 
-- Gradient Flow <=> Mirror Flow
+- With proper parameterization; (commuting) Gradient Flow becomes equivalent with Mirror Flow.
