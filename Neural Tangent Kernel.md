@@ -28,5 +28,11 @@
 
 - null
 
+### Neural Tangent Kernel: A Survey
+
+<https://arxiv.org/abs/2208.13614>
+
+- null
+
 
 
