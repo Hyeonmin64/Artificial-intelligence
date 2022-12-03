@@ -25,3 +25,9 @@
 <https://link.springer.com/chapter/10.1007/978-3-642-38652-7_7>
 
 - null
+
+### [Text] Geometric deep learning
+
+<https://geometricdeeplearning.com/>
+
+- null
