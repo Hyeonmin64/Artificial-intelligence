@@ -22,6 +22,14 @@
 -
 -
 
+### A Convergence Analysis of Gradient Descent for Deep Linear Neural Networks
+
+<https://arxiv.org/abs/1810.02281>
+
+-
+-
+
+
 
 
 
