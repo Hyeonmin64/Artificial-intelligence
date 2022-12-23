@@ -38,9 +38,7 @@
 
 With Constant kernel assumption(: For GD-dynamics, if kernel does not evolve with time),
 we can get the exact solution. 
-And 
-"The main result is: under certain parameterization, the empirical NTK of a neural network becomes
-constant as width goes to infinity" 
-gives that being nearly constant kernel
+And under certain parameterization, the empirical NTK of a neural network becomes
+constant as width goes to infinity. 
 
 
