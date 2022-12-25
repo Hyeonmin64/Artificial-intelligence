@@ -41,6 +41,30 @@
 -
 
 
+### Deep Learning with Functional Inputs
+
+<https://arxiv.org/abs/2006.09590>
+
+-
+-
+
+
+### Deep Polynomial Neural Networks
+
+<https://arxiv.org/abs/2006.13026>
+
+-
+-
+
+
+
+### An Interpretation of Long Short-Term Memory Recurrent Neural Network for Approximating Roots of Polynomials
+
+<https://ieeexplore.ieee.org/document/9729726>
+
+-
+-
+
 
 
 
