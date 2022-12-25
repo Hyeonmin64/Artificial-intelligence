@@ -33,12 +33,17 @@
 <https://arxiv.org/abs/2208.13614>
 
 - null
-
-[Note]
-
-With Constant kernel assumption(: For GD-dynamics, if kernel does not evolve with time),
+- With Constant kernel assumption(: For GD-dynamics, if kernel does not evolve with time),
 we can get the exact solution. 
 And under certain parameterization, the empirical NTK of a neural network becomes
 constant as width goes to infinity. 
+
+### Fast Finite Width Neural Tangent Kernel
+
+<https://arxiv.org/abs/2206.08720>
+
+-
+-
+-
 
 
