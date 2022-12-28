@@ -46,7 +46,7 @@
 <https://arxiv.org/abs/2006.09590>
 
 -
--
+- keyword: functional data analysis.
 
 
 ### Deep Polynomial Neural Networks
