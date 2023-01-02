@@ -44,6 +44,11 @@ constant as width goes to infinity.
 
 -
 -
--
 
+
+### Introductory video
+
+(Lecture 7 - Deep Learning Foundations: Neural Tangent Kernels; Soheil Feizi)
+
+<https://www.youtube.com/watch?v=DObobAnELkU>
 
