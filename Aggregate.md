@@ -45,7 +45,7 @@
 
 <https://arxiv.org/abs/2006.09590>
 
--Deep Neural Net is composed with both function inputs and scalar inputs.
+- Deep Neural Net is composed with both function inputs and scalar inputs.
 - 
 
 
