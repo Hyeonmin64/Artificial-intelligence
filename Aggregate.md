@@ -45,8 +45,8 @@
 
 <https://arxiv.org/abs/2006.09590>
 
--
-- keyword: functional data analysis.
+-Deep Neural Net is composed with both function inputs and scalar inputs.
+- 
 
 
 ### Deep Polynomial Neural Networks
