@@ -57,7 +57,6 @@
 -
 
 
-
 ### An Interpretation of Long Short-Term Memory Recurrent Neural Network for Approximating Roots of Polynomials
 
 <https://ieeexplore.ieee.org/document/9729726>
@@ -66,6 +65,12 @@
 -
 
 
+### The jamming transition as a paradigm to understand the loss landscape of deep neural networks
+
+<https://arxiv.org/abs/1809.09349>
+
+-
+-
 
 
 ### [Text] Kernel and Submanifold Learning
