@@ -73,6 +73,31 @@
 -
 
 
+## Layer Normalization
+
+<https://arxiv.org/abs/1607.06450>
+
+-
+-
+
+
+## A scale-dependent notion of effective dimension
+
+<https://arxiv.org/abs/2001.10872>
+
+-
+-
+
+
+## Riemannian approach to batch normalization
+
+<https://arxiv.org/abs/1709.09603>
+
+-
+-
+
+
+
 ### [Text] Kernel and Submanifold Learning
 
 <https://link.springer.com/chapter/10.1007/978-3-642-38652-7_7>
