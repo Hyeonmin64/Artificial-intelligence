@@ -98,6 +98,14 @@
 
 
 
+## On Lazy Training in Differentiable Programming
+
+<https://arxiv.org/pdf/1812.07956.pdf>
+
+-
+-
+
+
 ### [Text] Kernel and Submanifold Learning
 
 <https://link.springer.com/chapter/10.1007/978-3-642-38652-7_7>
