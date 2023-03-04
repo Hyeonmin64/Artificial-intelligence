@@ -46,6 +46,13 @@ constant as width goes to infinity.
 -
 
 
+### Exact Convergence Rates of the Neural Tangent Kernel in the Large Depth Limit
+
+
+<https://arxiv.org/abs/1905.13654>
+
+
+
 ### Introductory video
 
 (Lecture 7 - Deep Learning Foundations: Neural Tangent Kernels; Soheil Feizi)
