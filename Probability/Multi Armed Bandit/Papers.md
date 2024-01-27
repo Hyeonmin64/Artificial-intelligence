@@ -1,4 +1,4 @@
-## Introduction to Multi-Armed Bandits
+### Introduction to Multi-Armed Bandits
 
 <https://arxiv.org/abs/1904.07272>
 
